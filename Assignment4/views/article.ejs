@@ -1,0 +1,9 @@
+<h1><%= article.title %></h1>
+
+<% if (article.featureImage) { %>
+  <img src="<%= article.featureImage %>" alt="Feature Image">
+<% } %>
+
+<p><%= article.content %></p>
+<p>Category: <%= article.categoryName %></p>
+<p>Date Published: <%= article.date %></p>

@@ -1,0 +1,23 @@
+<% if (!articles || articles.length === 0) { %>
+    <div class="alert alert-danger">No articles found or an error occurred.</div>
+  <% } else { %>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Category</th>
+          <th>Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% articles.forEach(article => { %>
+          <tr>
+            <td><a href="/article/<%= article.id %>"><%= article.title %></a></td>
+            <td><a href="/articles?category=<%= article.category %>"><%= article.categoryName %></a></td>
+            <td><%= article.date %></td>
+          </tr>
+        <% }) %>
+      </tbody>
+    </table>
+  <% } %>
+  
