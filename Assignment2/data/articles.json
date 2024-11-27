@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "title": "Fall Fashion 2024: Must-Have Trends",
+      "content": "As the temperature drops, fashion heats up with cozy, oversized coats and bold colors. This year's fall fashion is all about mixing comfort with style. Check out the must-have pieces for your wardrobe.",
+      "published": true,
+      "author": "Emily Harper",
+      "date": "2024-09-15"
+    },
+    {
+      "id": 2,
+      "title": "Bold Makeup Looks for Winter 2024",
+      "content": "Winter is the perfect time to experiment with bold makeup looks. Think dark, dramatic lips, smoky eyes, and dewy skin. Here's how you can achieve these stunning looks while keeping your skin protected from the cold.",
+      "published": true,
+      "author": "Sophia Martins",
+      "date": "2024-10-01"
+    },
+    {
+      "id": 3,
+      "title": "Sustainable Fashion: The New Normal",
+      "content": "Sustainability is no longer just a buzzword in the fashion industry. From eco-friendly fabrics to ethical manufacturing, here’s how designers are changing the game and how you can incorporate sustainability into your style.",
+      "published": true,
+      "author": "Lucas Baker",
+      "date": "2024-08-25"
+    },
+    {
+      "id": 4,
+      "title": "Makeup Tips for Glowing Skin in 2024",
+      "content": "Get that fresh, glowing look with these top makeup tips for 2024. From choosing the right highlighter to creating a natural blush, we have all the expert tips you need to look radiant year-round.",
+      "published": true,
+      "author": "Olivia Gomez",
+      "date": "2024-07-14"
+    }
+    
+  ]
+  
